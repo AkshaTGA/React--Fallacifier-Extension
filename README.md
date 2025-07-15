@@ -44,7 +44,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/fallacifier.git
+git clone https://github.com/AkshaTGA/React--Fallacifier-Extension.git
 cd fallacifier
 ```
 ### 2. Install Dependencies
