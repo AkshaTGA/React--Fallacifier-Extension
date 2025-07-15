@@ -245,7 +245,7 @@ function App() {
             real-world problems.
           </p>
           <p className="text-[#888787] mt-2">
-            Fallicifier was developed to help tackle misinformation by combining
+            Falacifier was developed to help tackle misinformation by combining
             trusted sources with AI-based analysis. This project reflects my
             interest in creating simple, effective, and impactful digital
             solutions.
