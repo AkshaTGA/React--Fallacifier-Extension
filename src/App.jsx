@@ -36,6 +36,7 @@ function App() {
     if (claim == "" || claim.length < 6 || !claim.includes(" ")) {
       setemptyinput(true);
       seterror(false);
+      setloading(false)
       return;
     }
     setloading(true);
@@ -118,7 +119,7 @@ function App() {
             </div>
           )}
 
-          {inputgiven && !loading && !error && (
+          {inputgiven && !emptyinput && !loading && !error && (
             <div className="Verdict mt-2   shadow-sm w-[370px] rounded-lg px-1 py-4 flex  flex-col gap-3">
               <p className="text-xl text-white text-center">Results</p>
               <hr className="border-[#3d3d3d] " />
@@ -245,7 +246,7 @@ function App() {
             real-world problems.
           </p>
           <p className="text-[#888787] mt-2">
-            Falacifier was developed to help tackle misinformation by combining
+            Fallicifier was developed to help tackle misinformation by combining
             trusted sources with AI-based analysis. This project reflects my
             interest in creating simple, effective, and impactful digital
             solutions.
