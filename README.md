@@ -1,7 +1,7 @@
 
-# 🧠 Fallacifier - Chrome Extension for Smart Fact Checking
+# 🧠 Fallacifier - Browser Extension for Smart Fact Checking
 
-**Fallacifier** is a Chrome Extension that instantly fact-checks any claim using real-time public sources, AI reasoning, and domain trust scores — so you never have to Google bold statements again.
+**Fallacifier** is a Browser Extension that instantly fact-checks any claim using real-time public sources, AI reasoning, and domain trust scores — so you never have to Google bold statements again.
 
 ## Screenshot
 
@@ -59,10 +59,9 @@ npm run build
 This will generate the optimized extension files inside the dist/ directory.
 
 
-## 🧩 Load Extension into Chrome
-Open Chrome and go to chrome://extensions/
-
-Enable Developer Mode (top right)
+## 🧩 Load Extension into Browser
+Open your browser and and open extensions page.
+Enable Developer Mode 
 
 Click Load unpacked
 
