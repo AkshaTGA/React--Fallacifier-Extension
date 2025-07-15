@@ -11,7 +11,6 @@
 <img width="1280" height="800" alt="4" src="https://github.com/user-attachments/assets/60e8b27e-1b11-4a08-a475-a2a5c5aee157" />
 
 
- <!-- Optional: Add your own screenshot file here -->
 
 ---
 
@@ -23,8 +22,6 @@
 - 🤖 Uses GPT to analyze content and deliver a verdict: **Supported**, **Refuted**, or **Unverifiable**
 - 📈 Provides a **Confidence Rating** and cites top sources
 - 🧠 All reasoning is handled server-side (deployed on Render.com)
-- 🔥 Anonymous usage — no tracking
-
 ---
 
 ## ⚙️ Tech Stack
@@ -76,7 +73,7 @@ You're now ready to use the extension locally!
 
 ## 👨‍💻 About the Developer
 
-I'm Akshat, a CS undergrad from IIIT Allahabad with a deep interest in web dev, AI, and building tools that solve real problems.
+I'm Akshat, an IT undergrad from IIIT Allahabad with a deep interest in web dev, AI, and building tools that solve real problems.
 Feel free to connect with me or contribute!
 
 ---
