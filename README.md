@@ -33,7 +33,7 @@
 - Chrome Extension APIs
 
 ### 🧠 Backend
-- [OpenAI GPT-4 API](https://platform.openai.com/)
+- [Nvidia Mistral API](https://platform.openai.com/)
 - [Brave Search API](https://search.brave.com/)
 - [Firebase Realtime Database](https://firebase.google.com/)
 - Hosted on [Render.com](https://render.com/)
