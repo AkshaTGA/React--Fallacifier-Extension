@@ -45,7 +45,7 @@
 
 ```bash
 git clone https://github.com/AkshaTGA/React--Fallacifier-Extension.git
-cd fallacifier
+cd React--Fallacifier-Extension
 ```
 ### 2. Install Dependencies
 ```bash
